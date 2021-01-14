@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to my Page!
 
-You can use the [editor on GitHub](https://github.com/Noriller/noriller.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'll be editing this as I advance on my portfolio... 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Meanwhile:
 
-### Markdown
+Check my repo: https://github.com/Noriller
+Or my LinkedIn: https://www.linkedin.com/in/noriller/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Languages/Frameworks I'm using and/or learning:
 
-```markdown
-Syntax highlighted code block
+1. Javascript/Typescript
+    - Angular
+    - React
+      - Next.js
+    - Node
+    - Nest
+        
+2. Java
+    - Java EE
+    - Spring
 
-# Header 1
-## Header 2
-### Header 3
+3. Still Learning
+    - Vue
+    - Python
+      - Django
+        
+4. My want to learn next list: 
+    - Rust
+    - A functional language, maybe Clojure.
+        
 
-- Bulleted
-- List
+### My still growing portfolio:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Noriller/noriller.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* https://awesome-cpf-validator.vercel.app/
