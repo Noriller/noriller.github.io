@@ -15,10 +15,12 @@ I'll be editing this as I advance on my portfolio...
     - React
       - Next.js
     - Node
-    - Nest
+      - Nest
         
 2. Java
     - Java EE
+      - Servlets
+      - JSP
     - Spring
 
 3. Still Learning
