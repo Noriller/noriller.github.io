@@ -5,6 +5,7 @@ I'll be editing this as I advance on my portfolio...
 ## Meanwhile:
 
 [Check my Github](https://github.com/Noriller)
+
 [Or my LinkedIn](https://www.linkedin.com/in/noriller/)
 
 ### Languages/Frameworks I'm using and/or learning:
