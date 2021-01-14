@@ -4,9 +4,8 @@ I'll be editing this as I advance on my portfolio...
 
 ## Meanwhile:
 
-Check my repo: https://github.com/Noriller
-
-Or my LinkedIn: https://www.linkedin.com/in/noriller/
+[Check my Github](https://github.com/Noriller)
+[Or my LinkedIn](https://www.linkedin.com/in/noriller/)
 
 ### Languages/Frameworks I'm using and/or learning:
 
@@ -33,4 +32,4 @@ Or my LinkedIn: https://www.linkedin.com/in/noriller/
 
 ### My still growing portfolio:
 
-* https://awesome-cpf-validator.vercel.app/
+* [https://awesome-cpf-validator.vercel.app/](https://awesome-cpf-validator.vercel.app/)
