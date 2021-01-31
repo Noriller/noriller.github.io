@@ -37,7 +37,7 @@ I'll be editing this as I advance on my portfolio...
 
 * [https://awesome-cpf-validator.vercel.app/](https://awesome-cpf-validator.vercel.app/)
     * React + Next website
-    * What's cool in there: RxJS for all the "animations".
+    * What's cool in there: RxJS for all the "animations" and what to show or hide.
 * [https://noriller.github.io/Angular-FrontEnd/](https://noriller.github.io/Angular-FrontEnd/)
     * E-Commerce website made in Angular.
     * What's cool in there: Infinity scroll for product list, following button in the cart. 
